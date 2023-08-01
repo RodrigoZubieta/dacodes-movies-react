@@ -12,24 +12,20 @@
 .text-input:hover fieldset {
     border-radius: 30px !important;
     color: black !important;
-    ;
 }
 
 .text-input fieldset {
     border-radius: 30px !important;
     color: black !important;
-    ;
 }
 
 .text-input:focus {
     border-radius: 30px !important;
     color: black !important;
-    ;
 }
 
 .text-input label {
     color: black !important;
-    ;
 }
 
 .icon-container {
@@ -60,14 +56,11 @@
 
 .checkbox-label {
     color: white !important;
-    ;
     float: left !important;
-    ;
 }
 
 .checkbox-label span {
     color: white !important;
-    ;
     font-size: 12px !important;
 }
 
